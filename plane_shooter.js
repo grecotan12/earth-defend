@@ -1,7 +1,7 @@
 const gameState = {}
 
 function preload() {
-    this.load.image('bg', 'assets/space_bg.jpg');
+    this.load.image('bg', 'assets/background_one.png');
 }
 
 function create() {
